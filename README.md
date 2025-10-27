@@ -13,7 +13,7 @@ This repository documents my exploration of Generative AI, covering everything f
 
 ![Screenshot](notebooks/Screenshot.png)
 
-- **[AI Dad Jokes Generator](notebooks/Dad_Joke_Generator.ipynb)** - A funny experiement with OpenAi model and Gradio UI
+- **[AI Dad Jokes Generator](notebooks/Dad_Joke_Generator.ipynb)** - A funny experiment with OpenAi model and Gradio UI
 
 ![Screenshot](notebooks/Screenshot_DadJoke.png)
 
