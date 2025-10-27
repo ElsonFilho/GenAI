@@ -9,7 +9,7 @@ This repository documents my exploration of Generative AI, covering everything f
 ## Notebooks by Category
 
 ### 🎯 Production Applications
-- **[AI Cover Letter Generator](notebooks/CoverLeterGenerator_Interface.ipynb)** - Complete LangGraph application with Gradio UI
+- **[AI Cover Letter Generator](notebooks/CoverLeter_AI_LangGraph_v005.ipynb)** - Complete LangGraph application with Gradio UI
 - **[Simple ChatBot](notebooks/SimpleChatBot.ipynb)** - Conversational AI implementation
 - **[LLMs with RAG and HuggingFace](notebooks/LLMs_RAGandHuggingFace.ipynb)** - Retrieval-augmented generation system
 
