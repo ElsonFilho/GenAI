@@ -9,7 +9,16 @@ This repository documents my exploration of Generative AI, covering everything f
 ## Notebooks by Category
 
 ### 🎯 Production Applications
-- **[AI Cover Letter Generator](notebooks/CoverLeter_AI_LangGraph_v005.ipynb)** - Complete LangGraph application with Gradio UI
+- **[AI Cover Letter Generator](notebooks/CoverLetter_AI_LangGraph_v005.ipynb)** - Complete LangGraph application with Gradio UI
+
+![Screenshot](notebooks/Screenshot.png)
+
+- **[AI Dad Jokes Generator](notebooks/Dad_Joke_Generator.ipynb)** - A funny experiement with OpenAi model and Gradio UI
+
+![Screenshot](notebooks/Screenshot_DadJoke.png)
+
+Also deployed at **[Hugging Face Spaces](https://huggingface.co/spaces/PricoTu/dad-joke-generator)** 
+
 - **[Simple ChatBot](notebooks/SimpleChatBot.ipynb)** - Conversational AI implementation
 - **[LLMs with RAG and HuggingFace](notebooks/LLMs_RAGandHuggingFace.ipynb)** - Retrieval-augmented generation system
 
