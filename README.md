@@ -79,10 +79,10 @@ Also deployed at **[Hugging Face Spaces](https://huggingface.co/spaces/PricoTu/d
 ## Related Work
 
 **For broader AI/ML context:**
-- [AI-Agents](../AI-Agents) - Multi-agent systems with crewAI and LangGraph
-- [Deep-Learning-Fundamentals](../Deep-Learning-Fundamentals) - Neural network foundations
-- [Python-AI-Applications](../Python-AI-Applications) - Computer vision and audio processing
-- [ML-Fundamentals-Portfolio](../ML-Fundamentals-Portfolio) - Classical ML algorithms
+- [AI-Agents](https://github.com/ElsonFilho/AI-Agents) - Multi-agent systems with crewAI and LangGraph
+- [Deep-Learning-Fundamentals](https://github.com/ElsonFilho/Deep-Learning-Fundamentals) - Neural network foundations
+- [Python-AI-Applications](https://github.com/ElsonFilho/Python-AI-Applications) - Computer vision and audio processing
+- [ML-Fundamentals-Portfolio](https://github.com/ElsonFilho/Python-Machine-Learning-Complete-Guide) - Classical ML algorithms
 
 ---
 
