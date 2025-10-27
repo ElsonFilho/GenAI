@@ -9,33 +9,33 @@ This repository documents my exploration of Generative AI, covering everything f
 ## Notebooks by Category
 
 ### 🎯 Production Applications
-- **[AI Cover Letter Generator](CoverLeterGenerator_Interface.ipynb)** - Complete LangGraph application with Gradio UI
-- **[Simple ChatBot](SimpleChatBot.ipynb)** - Conversational AI implementation
-- **[LLMs with RAG and HuggingFace](LLMs_RAGandHuggingFace.ipynb)** - Retrieval-augmented generation system
+- **[AI Cover Letter Generator](notebooks/CoverLeterGenerator_Interface.ipynb)** - Complete LangGraph application with Gradio UI
+- **[Simple ChatBot](notebooks/SimpleChatBot.ipynb)** - Conversational AI implementation
+- **[LLMs with RAG and HuggingFace](notebooks/LLMs_RAGandHuggingFace.ipynb)** - Retrieval-augmented generation system
 
 ### 🏗️ Transformer Architectures
-- **[Self-Attention & Positional Encoding](SelfAttention_PositionalEncoding.ipynb)** - Core transformer mechanisms
-- **[Transformer for Translation](Transformer_for_Translation.ipynb)** - Sequence-to-sequence models
-- **[Transformers for Classification](Transformers_for_Classification.ipynb)** - Text classification tasks
-- **[Decoder-Only Models (GPT)](Decoder_Causal_LM_GPT.ipynb)** - Causal language modeling
+- **[Self-Attention & Positional Encoding](notebooks/SelfAttention_PositionalEncoding.ipynb)** - Core transformer mechanisms
+- **[Transformer for Translation](notebooks/Transformer_for_Translation.ipynb)** - Sequence-to-sequence models
+- **[Transformers for Classification](notebooks/Transformers_for_Classification.ipynb)** - Text classification tasks
+- **[Decoder-Only Models (GPT)](notebooks/Decoder_Causal_LM_GPT.ipynb)** - Causal language modeling
 
 ### 🔧 Fine-Tuning & Training
-- **[Fine-Tuning with SFT](Fine_Tuning_SFTTransformers.ipynb)** - Supervised fine-tuning
-- **[Pre-training BERT](PreTrainingBERT.ipynb)** - Masked language modeling
-- **[Pre-training LLMs](PretrainingLLMs_HuggingFace.ipynb)** - Training from scratch
-- **[Reward Modeling](Reward_Modeling.ipynb)** - RLHF foundations
-- **[Data Prep for BERT](DataPrep_for_BERT.ipynb)** - Dataset preparation
+- **[Fine-Tuning with SFT](notebooks/Fine_Tuning_SFTTransformers.ipynb)** - Supervised fine-tuning
+- **[Pre-training BERT](notebooks/PreTrainingBERT.ipynb)** - Masked language modeling
+- **[Pre-training LLMs](notebooks/PretrainingLLMs_HuggingFace.ipynb)** - Training from scratch
+- **[Reward Modeling](notebooks/Reward_Modeling.ipynb)** - RLHF foundations
+- **[Data Prep for BERT](notebooks/DataPrep_for_BERT.ipynb)** - Dataset preparation
 
 ### 📚 NLP Fundamentals
-- **[Tokenization](Tokenization.ipynb)** - BPE, WordPiece, SentencePiece
-- **[Word2Vec](Word2Vec.ipynb)** - Word embeddings
-- **[N-gram Language Models](Language_Modelling_With_N_Gram_Analysis.ipynb)** - Statistical language modeling
-- **[RNN Translation](S_to_S_RNN_Translation.ipynb)** - Sequence-to-sequence with RNNs
+- **[Tokenization](notebooks/Tokenization.ipynb)** - BPE, WordPiece, SentencePiece
+- **[Word2Vec](notebooks/Word2Vec.ipynb)** - Word embeddings
+- **[N-gram Language Models](notebooks/Language_Modelling_With_N_Gram_Analysis.ipynb)** - Statistical language modeling
+- **[RNN Translation](notebooks/S_to_S_RNN_Translation.ipynb)** - Sequence-to-sequence with RNNs
 
 ### 🛠️ Tools & Infrastructure
-- **[HuggingFace Models](ModelsWithHuggingFace.ipynb)** - Working with pre-trained models
-- **[LangChain Document Loader](LangChain_Document_Loader.ipynb)** - Document processing pipelines
-- **[NLP Data Loader](NLP_DataLoader.ipynb)** - Dataset handling
+- **[HuggingFace Models](notebooks/ModelsWithHuggingFace.ipynb)** - Working with pre-trained models
+- **[LangChain Document Loader](notebooks/LangChain_Document_Loader.ipynb)** - Document processing pipelines
+- **[NLP Data Loader](notebooks/NLP_DataLoader.ipynb)** - Dataset handling
 
 ## Technologies
 
@@ -56,23 +56,6 @@ This repository documents my exploration of Generative AI, covering everything f
 - Fine-tuning & PEFT
 - Prompt engineering
 - Multi-agent systems
-
-## Learning Path
-
-**Beginner Track**
-1. Start with [Tokenization](Tokenization.ipynb)
-2. Understand [Word2Vec](Word2Vec.ipynb)
-3. Learn [N-gram models](Language_Modelling_With_N_Gram_Analysis.ipynb)
-
-**Intermediate Track**
-4. Deep dive into [Transformers](SelfAttention_PositionalEncoding.ipynb)
-5. Explore [BERT](PreTrainingBERT.ipynb) and [GPT](Decoder_Causal_LM_GPT.ipynb)
-6. Build [Classification models](Transformers_for_Classification.ipynb)
-
-**Advanced Track**
-7. Implement [RAG systems](LLMs_RAGandHuggingFace.ipynb)
-8. Practice [Fine-tuning](Fine_Tuning_SFTTransformers.ipynb)
-9. Build [Production apps](CoverLeterGenerator_Interface.ipynb)
 
 ## Key Concepts Covered
 
